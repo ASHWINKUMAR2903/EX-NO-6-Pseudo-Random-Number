@@ -3,6 +3,7 @@
 Implementation of Pseudorandom Number Generation Using Standard library
 
 # PROGRAM
+```
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -26,9 +27,9 @@ int main()
     }
     return 0;
 }
-
+```
 # OUTPUT
-![image](https://github.com/user-attachments/assets/f5802f42-4f7c-485f-9c0b-cc9ccfb88bd6)
+![image](https://github.com/user-attachments/assets/5752844d-0edc-432e-a0bd-6265c7882062)
 
 # RESULT 
 Thus Pseudorandom Number Generation Using Standard library has been executed successfully.
